@@ -56,12 +56,6 @@ The testbench generates serial input streams on `din`.
 | `11101`              | Pulse when last `1` arrives |
 | `01101101`           | Two pulse               |
 
----
-
-## GitHub Submission
-- **Repo URL**: *[(https://github.com/VA0910/CS322M-230150028)]*  
- 
-
 
 
  
