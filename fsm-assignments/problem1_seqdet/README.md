@@ -58,7 +58,7 @@ The testbench generates serial input streams on `din`.
 ---
 
 ## GitHub Submission
-- **Repo URL**: *[(https://github.com/va0910/CS322M-230150028)]*  
+- **Repo URL**: *[(https://github.com/VA0910/CS322M-230150028)]*  
 - **Final Commit Hash**: *[replace with latest commit hash]*  
 
 
