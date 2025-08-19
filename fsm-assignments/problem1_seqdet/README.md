@@ -1,5 +1,13 @@
 # Serial Pattern Detector (Mealy FSM) — Detect `1101` with Overlap
 
+---
+
+## Author
+- Name: *VAISHNAVI AGARWAL*  
+- Course/Assignment: *CS_322_M* 
+
+---
+
 ## Goal
 Design and verify a Mealy FSM that detects the serial bit pattern `1101` on input `din` with overlap.  
 The output `y` generates a **1-cycle pulse** when the last bit (`1`) of the sequence arrives.
@@ -50,14 +58,12 @@ The testbench generates serial input streams on `din`.
 ---
 
 ## GitHub Submission
-- **Repo URL**: *[(https://github.com/spandanb10745/CS322M-230102108)]*  
+- **Repo URL**: *[(https://github.com/va0910/CS322M-230150028)]*  
 - **Final Commit Hash**: *[replace with latest commit hash]*  
 
----
 
-## Author
-- Name: *SPANDAN BHARADWAJ*  
-- Course/Assignment: *CS_322_M*  
+
+ 
 
 
 
