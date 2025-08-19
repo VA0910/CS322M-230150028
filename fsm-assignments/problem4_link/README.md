@@ -58,13 +58,4 @@ The design models a **Master–Slave handshake protocol**, where the **Master FS
 3. Run the testbench (`tb_link_top.v`).  
 4. Observe the simulated **REQ–ACK signals** in the waveform viewer.  
 
----
 
-## 📂 File Structure
-- `link_top.v` → Top-level module  
-- `master_fsm.v` → Master FSM design  
-- `slave_fsm.v` → Slave FSM design  
-- `tb_link_top.v` → Testbench for verification  
-- `Block_Diagram_1.png`, `Block_Diagram_2.png` → System block diagrams  
-- `State_Diagram.jpg` → FSM state diagram  
-- `Waveform.png` → Simulation waveform  
