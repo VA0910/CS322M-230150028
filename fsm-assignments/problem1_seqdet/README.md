@@ -22,7 +22,8 @@ The output `y` generates a **1-cycle pulse** when the last bit (`1`) of the sequ
 - Transitions handle overlaps (e.g., `1101101` still triggers detections).  
 - Output `y=1` only when full pattern `1101` is detected.  
 
-![State Diagram](https://github.com/user-attachments/assets/0ce83508-9a08-42a8-af7d-72b6f3b426d4)
+![State_Diagram](https://github.com/user-attachments/assets/9278721d-beeb-496e-aff2-5321bcfe82b5)
+
 ![Block Design](https://github.com/user-attachments/assets/b54f6003-c9cb-42f5-b0d0-f8b14e0d7450)
 
 ---
